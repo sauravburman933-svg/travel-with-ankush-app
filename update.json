@@ -1,6 +1,6 @@
 {
-  "latestVersionCode": 1,
-  "latestVersionName": "1.0.0",
-  "apkUrl": "https://github.com/sauravburman933-svg/travel-with-ankush-app/releases/download/v1.0.0/TravelWithAnkush-v1.0.0-release.apk",
-  "releaseNotes": "Initial release: Tour booking and auto-update support."
+  "latestVersionCode": 3,
+  "latestVersionName": "1.0.2",
+  "apkUrl": "https://raw.githubusercontent.com/sauravburman933-svg/travel-with-ankush-app/refs/heads/main/TravelWithAnkush-v1.0.2-release.apk",
+  "releaseNotes": "What's New in Version 1.0.2: ✨ Sleeker Tour Browsing: Redesigned category cards with crystal-clear text so you can explore Kashmir, Manali, and pilgrimage circuits with ease. 🔔 Instant Travel Alerts: Never miss exclusive tour offers, yatra updates, and seasonal deals with our real-time notifications. 🚀 New Tour Announcements: Get instant alerts the moment fresh holiday and day-trip packages are launched. 🛠️ Performance Boost: Smoother animations, faster booking screen loading, and bug fixes for a hassle-free experience.."
 }
